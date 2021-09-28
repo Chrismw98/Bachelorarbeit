@@ -4,7 +4,7 @@ Dieses GitHub Repository beinhaltet alle Dateien, welche bei der Erstellung der 
 
 |Ordnername| Beschreibung| Inhalt|
 |--|--|--|
-| AVA | Wurde anfangs für das Herunterladen des AVA Datensatzes. Der Datensatz wurde letzten Endes nicht benutzt. | Kategorie-Detail Textdateien, abgeänderte Download-Skripte eines veralteten Crawlers |
+| AVA | Wurde anfangs für das Herunterladen des AVA Datensatzes benutzt. Der Datensatz wurde letzten Endes nicht benutzt. | Kategorie-Detail Textdateien, abgeänderte Download-Skripte eines veralteten Crawlers |
 |Auswerter|Wurde für die Konvertierung der Experimentresultate in Datenobjekte und die gesamte Datenauswertung benutzt.| Datenauswerter Jupyter Notebook, Python Helferskript, Abbildungen, Informations-CSV-Datei der Bilder, R Auswerter Skript für die 4. Hypothese, Daten der Versuchspersonen|
 |CC Crawler|Wurde für den Bildcrawler verwendet. Enthält zudem eine HTML Snapshots von der CC Crawler Seite, um nicht ein "Infinity Scrolling" für den Crawler implementieren zu müssen, da dies sehr aufwendig ist.|Dateien des CreativeCommons.org Bildcrawlers|
 |Experiment|Wurde für das OpenSesame und PsychoPy Experiment verwendet. Hinweis: Da das PsychoPy Experiment bereits auf einem GitLab Repository existiert, wurde es nicht explizit hochgeladen. Link zum PsychoPy GitLab Repository: https://gitlab.pavlovia.org/chrismw/sunset-experiment.|Alle benötigten Datein, inklusive des PsycoPy "demographics" Projektes |
