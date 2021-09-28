@@ -1,0 +1,632 @@
+imageId;category;imagePath
+0;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/0_15375375972_a1a7bcbb02_o.jpg
+1;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/1_127825139_a430fcdf0c_o.jpg
+2;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/2_37125372203_254d5cb081_o.jpg
+3;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/3_5408558124_1525309d6d_o.jpg
+4;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/4_8475874597_cf19ef6564_o.jpg
+5;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/5_14235446383_45c86db04f_o.jpg
+6;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/6_47454379281_9dde2458e8_o.jpg
+7;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/7_2242940421_0abd470594_o.jpg
+8;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/8_12116194823_9e24c3826a_o.jpg
+9;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/9_14415758295_443aa4c775_o.jpg
+10;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/10_14435291648_15b28853a4_o.jpg
+11;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/11_3321347595_866f927b4c_o.jpg
+12;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/12_6425090119_a116406bca_o.jpg
+13;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/13_5462330087_970315e5e8_o.jpg
+14;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/14_5576567395_8d8d86d072_o.jpg
+15;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/15_16903933427_f6514729dd_o.jpg
+16;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/16_16210674244_a9c74fe588_o.jpg
+17;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/17_16424164745_227869f3b3_o.jpg
+18;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/18_5593826855_e9e74c5e06_o.jpg
+19;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/19_2349801988_fe1e5a79a2_o.jpg
+20;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/20_12445414925_4faeb6b4e7_o.jpg
+21;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/21_8413451136_3268d53682_o.jpg
+22;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/22_54919824_069bba5f9f_o.jpg
+23;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/23_14214555467_639908a7c9_o.jpg
+24;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/24_314646922_70ff55495b_o.jpg
+25;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/25_4901402905_5c5f4c0279_o.jpg
+26;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/26_4524580145_f94ec2179b_o.jpg
+27;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/27_4994104027_84521b7be9_o.jpg
+28;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/28_5740123978_2916ae8bb5_o.jpg
+29;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/29_2099638403_d427187223_o.jpg
+30;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/30_61228107_d1d4269d2a_o.jpg
+31;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/31_5845637488_7b430bfaf6_o.jpg
+32;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/32_6674416303_98aaebe6e8_o.jpg
+33;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/33_7469641132_8154edecdb_o.jpg
+34;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/34_396633676_0d151f4277_o.jpg
+35;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/35_396642397_a5d425dbc0_o.jpg
+36;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/36_377595734_0bc9a3d8d0_o.jpg
+37;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/37_7854928366_f35536e47a_o.jpg
+38;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/38_8612307592_5948f7d24b_o.jpg
+39;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/39_28255590309_4c1412b0e2_o.jpg
+40;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/40_10008631324_3c61ea8dbb_o.jpg
+41;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/41_6341579665_572a2fb9e3_o.jpg
+42;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/42_4152675183_5a6bb9e62b_o.jpg
+43;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/43_48041938502_497599bb8a_o.jpg
+44;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/44_40018365084_19b6e585bc_o.jpg
+45;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/45_14416986591_a9ab3f95c3_o.jpg
+46;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/46_7997864087_3ef17cfb7e_o.jpg
+47;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/47_9637930308_c7dd28fcce_o.jpg
+48;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/48_6294882383_498624f097_o.jpg
+49;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/49_6875154296_517ba6a41d_o.jpg
+50;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/50_59557032_24f672130b_o.jpg
+51;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/51_8728178651_437957df49_o.jpg
+52;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/52_16039727146_1dc99ef804_o.jpg
+53;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/53_8127718746_2bea9a754c_o.jpg
+54;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/54_6848818478_9ab66e846b_o.jpg
+55;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/55_14277229595_081299edab_o.jpg
+56;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/56_4742534817_60204f483b_o.jpg
+57;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/57_6675381079_d206f8faf8_o.jpg
+58;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/58_5647886150_8e4e46ee64_o.jpg
+59;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/59_5328505062_0db8b0bba2_o.jpg
+60;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/60_7560050614_9de36cf3cd_o.jpg
+61;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/61_9736485307_b5a0d49f5f_o.jpg
+62;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/62_2210643804_b5849bf0c4_o.jpg
+63;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/63_10715733895_45c1c43b12_o.jpg
+64;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/64_34860289220_a96073be36_o.jpg
+65;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/65_170445663_88195d283e_o.jpg
+66;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/66_6981146979_79d03caa86_o.jpg
+67;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/67_6114427450_55207ddf52_o.jpg
+68;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/68_7925572724_a93f3f1a7f_o.jpg
+69;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/69_4803868360_0f6176a630_o.jpg
+70;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/70_12112577475_8db64701b9_o.jpg
+71;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/71_7661811244_d90febf9bb_o.jpg
+72;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/72_35861334152_b8883b9c2a_o.jpg
+73;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/73_14721901368_5decb69c49_o.jpg
+74;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/74_15679748654_a1e472bf28_o.png
+75;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/75_2924674925_70d9ba5d91_o.jpg
+76;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/76_4035609020_02b186e30e_o.jpg
+77;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/77_7361404966_ff4f2f205a_o.jpg
+78;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/78_6197930048_6a4dc68863_o.jpg
+79;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/79_9736487003_442b5e29d6_o.jpg
+80;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/80_517235884_e1b938958c_o.jpg
+81;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/81_14554089711_4b49a0a220_o.jpg
+82;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/82_3434623631_48b32dda13_o.jpg
+83;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/83_5210580239_7cf6d21081_o.jpg
+84;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/84_48041873513_e64062439f_o.jpg
+85;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/85_9229042935_6218bce2cb_o.jpg
+86;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/86_5975314337_cc38f362a3_o.jpg
+87;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/87_8806419442_d7f0ff8906_o.jpg
+88;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/88_16408278412_319b8cecd8_o.jpg
+89;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/89_2737010659_006e619fc6_o.jpg
+90;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/90_17085353826_353cffa663_o.jpg
+91;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/91_17151045047_3969131559_o.jpg
+92;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/92_3197099093_7bf5695df4_o.jpg
+93;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/93_25993330175_ddb40fe942_o.jpg
+94;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/94_14520432097_160b56ba2e_o.jpg
+95;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/95_2062188094_be10c8a495_o.jpg
+96;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/96_23702840554_51cce75a36_o.jpg
+97;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/97_7856496758_b4202305e2_o.jpg
+98;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/98_11260886736_473dc6907a_o.jpg
+99;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/99_8198051514_b7a6e2d2f5_o.jpg
+100;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/100_6626068585_42fce3c437_o.jpg
+101;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/101_8747824938_450dbe471d_o.jpg
+102;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/102_6040888856_d1ae72466d_o.jpg
+103;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/103_4040601873_3517b8ae0e_o.jpg
+104;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/104_6860149074_a6934abc40_o.jpg
+105;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/105_2100417490_7d75eeb582_o.jpg
+106;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/106_4768357051_5cd5f41f87_o.jpg
+107;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/107_8608777284_344c9607be_o.jpg
+108;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/108_42710238860_0e03031efd_o.png
+109;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/109_11056397583_4ecdd6fc9f_o.jpg
+110;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/110_4871809930_50dc3d6984_o.jpg
+111;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/111_2348966271_109a887b8b_o.jpg
+112;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/112_15931992384_5846b1d9ff_o.jpg
+113;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/113_49202923246_7c3d492778_o.jpg
+114;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/114_5680551445_9feb5b869a_o.jpg
+115;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/115_49048622657_0cee648343_o.jpg
+116;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/116_5495725075_fb531c3408_o.jpg
+117;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/117_14955545010_534b9617d7_o.jpg
+118;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/118_2676286644_a64084692d_o.jpg
+119;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/119_63850418_8ad7a60423_o.jpg
+120;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/120_2327856742_620fa8591c_o.jpg
+121;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/121_4504778684_d6841c2ecd_o.jpg
+122;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/122_34589270622_7f8585d891_o.jpg
+123;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/123_7661312652_0a3a578cc3_o.jpg
+124;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/124_14224418231_d4c0e1670a_o.jpg
+125;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/125_5047032408_0dcee8c9f8_o.jpg
+126;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/126_7950723688_f4c2dabe9a_o.jpg
+127;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/127_24880073016_875264f384_o.jpg
+128;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/128_4816497443_bcfb2973b0_o.jpg
+129;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/129_16931690246_f2eacde176_o.jpg
+130;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/130_26031454344_e9712b7701_o.jpg
+131;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/131_16536720835_b5341008fe_o.jpg
+132;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/132_6363039169_916f8a847d_o.jpg
+133;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/133_11442316003_46c41f2ced_o.jpg
+134;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/134_6636215117_5165455ea6_o.jpg
+135;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/135_6685040725_e116c9fe5a_o.jpg
+136;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/136_7661811590_140c2b9347_o.jpg
+137;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/137_4653348298_b9bce499ae_o.jpg
+138;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/138_49059963272_0aa4854d7e_o.jpg
+139;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/139_48784832181_50d9b94a79_o.jpg
+140;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/140_6680374459_853f7c919d_o.jpg
+141;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/141_3056953388_5e9b424deb_o.jpg
+142;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/142_4218036799_d3c80c81ae_o.jpg
+143;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/143_24853515426_2a5f2be0a4_o.jpg
+144;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/144_11529076353_913a6af960_o.jpg
+145;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/145_50312160967_a21d6a2957_o.jpg
+146;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/146_49108710571_76fc103927_o.jpg
+147;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/147_5397264359_2df3950be2_o.jpg
+148;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/148_8248174919_eef5ca4fd4_o.jpg
+149;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/149_5780254862_5988d84110_o.jpg
+150;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/150_9222332810_9c1cde913e_o.jpg
+151;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/151_9736487237_b677b10f41_o.jpg
+152;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/152_2154587934_c227ebe3a3_o.jpg
+153;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/153_13442388365_04b871756a_o.jpg
+154;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/154_15673434118_3220cb5e47_o.jpg
+155;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/155_11676450325_5c7b2d6da9_o.jpg
+156;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/156_14330266_31d968488c_o.jpg
+157;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/157_8754877339_d172ace989_o.jpg
+158;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/158_3351216279_464dab0815_o.jpg
+159;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/159_1598380111_830d8e1751_o.jpg
+160;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/160_15949993563_ccbdca2a39_o.jpg
+161;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/161_7578966218_8f92711ac7_o.jpg
+162;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/162_14545160083_9b202e21d0_o.jpg
+163;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/163_4648617365_6e1e515f35_o.jpg
+164;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/164_4742074137_7822e132de_o.jpg
+165;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/165_14920604135_64078d031f_o.jpg
+166;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/166_17426201136_203f5209b4_o.jpg
+167;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/167_7938746880_882725382a_o.jpg
+168;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/168_479627824_a19de5fbee_o.jpg
+169;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/169_11545631785_6788577ea8_o.jpg
+170;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/170_4007011990_eff63ab413_o.jpg
+171;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/171_7815687058_96106126ec_o.jpg
+172;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/172_7615827574_abe7394551_o.jpg
+173;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/173_4569637226_2bd44109fb_o.jpg
+174;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/174_12000399433_b9c1235f0e_o.jpg
+175;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/175_7664070462_ff23fe2a29_o.jpg
+176;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/176_47473001921_8f0416002d_o.jpg
+177;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/177_14498631624_da1cc1b6fa_o.jpg
+178;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/178_11521107044_ac2a247144_o.jpg
+179;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/179_305783109_3df19a3555_o.jpg
+180;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/180_49628840998_a42f1b20bf_o.jpg
+181;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/181_6937618351_6ab8347c77_o.jpg
+182;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/182_892945556_c0a7e051fc_o.jpg
+183;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/183_14190413558_1c91d3d067_o.jpg
+184;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/184_4580951085_3de4f41fd0_o.jpg
+185;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/185_2632383574_a90715a2b9_o.jpg
+186;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/186_3517556519_275a3f36eb_o.jpg
+187;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/187_2872982380_3a05989950_o.jpg
+188;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/188_24186822775_6a9ce0af75_o.jpg
+189;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/189_5141412269_7b52f17575_o.jpg
+190;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/190_14397679533_40cfd90054_o.jpg
+191;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/191_9521922267_1574c471d6_o.jpg
+192;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/192_16246807237_8bdc6ffe06_o.jpg
+193;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/193_330654754_312461ff50_o.jpg
+194;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/194_34757765343_c1f4a12f53_o.jpg
+195;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/195_2192630997_bb28b0802f_o.jpg
+196;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/196_12259673395_8018f08902_o.jpg
+197;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/197_7019867913_ffc62b3928_o.jpg
+198;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/198_81193585_1b24e61c00_o.jpg
+199;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/199_2457281193_5cf0868190_o.jpg
+200;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/200_2697267062_d5f026f961_o.jpg
+201;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/201_6600706427_808b75a5da_o.jpg
+202;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/202_15407578554_d9c4bca145_o.jpg
+203;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/203_2820191540_c3c5a1db2d_o.jpg
+204;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/204_73738425_311621bedb_o.jpg
+205;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/205_130742388_2759562ea4_o.jpg
+206;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/206_6130005018_3ff732eedc_o.jpg
+207;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/207_48763561263_722e99e54f_o.jpg
+208;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/208_20225857930_bc9fb004f6_o.jpg
+209;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/209_4858413949_4399ae83e9_o.jpg
+210;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/210_341361972_9eb88f9074_o.jpg
+211;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/211_5931596899_c1dd41b71f_o.jpg
+212;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/212_5715716742_5aec16c09d_o.jpg
+213;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/213_449030006_88308658fc_o.jpg
+214;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/214_2417169087_4bb9a45f18_o.jpg
+215;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/215_48829700852_dc96b517f2_o.jpg
+216;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/216_4265462122_9cf12423a0_o.jpg
+217;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/217_15705996249_8519b7d43f_o.png
+218;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/218_6400733303_23f2a30970_o.jpg
+219;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/219_5327892367_454a17f409_o.jpg
+220;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/220_60929322_2e4c85a7dd_o.jpg
+221;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/221_22482780656_01f0fe66b1_o.jpg
+222;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/222_8751185699_ce03d47868_o.jpg
+223;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/223_2129555467_36ae07bf07_o.jpg
+224;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/224_26385534_917275b33e_o.jpg
+225;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/225_6295413648_40c7e0d865_o.jpg
+226;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/226_6294890147_a9414f6226_o.jpg
+227;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/227_6295421410_4dca81fa4a_o.jpg
+228;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/228_5934421455_33d16dc7d4_o.jpg
+229;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/229_6797174532_17646603b0_o.jpg
+230;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/230_49915462143_f90139c7ef_o.jpg
+231;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/231_44922356991_9f94d9613b_o.jpg
+232;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/232_241144126_906c96e600_o.jpg
+233;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/233_8684784715_84808cf958_o.jpg
+234;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/234_341330699_6519711fbf_o.jpg
+235;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/235_3007404763_edea9dc8c2_o.jpg
+236;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/236_24432888693_73280e646e_o.jpg
+237;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/237_14149427846_da94e3da75_o.jpg
+238;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/238_2727009946_8fde47ccf2_o.jpg
+239;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/239_2934880173_e1a294ef4d_o.jpg
+240;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/240_7993889925_dd64658b93_o.jpg
+241;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/241_2806330093_307caeea43_o.jpg
+242;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/242_16077680206_8cea7d91af_o.jpg
+243;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/243_6240494269_9ec3e17da9_o.jpg
+244;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/244_14074908540_b80bdd4f0a_o.jpg
+245;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/245_6470067149_02e2d2481c_o.jpg
+246;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/246_2914216431_5664e1699b_o.jpg
+247;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/247_36593159350_07c30c378c_o.jpg
+248;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/248_16293183396_a9c1b6e31c_o.jpg
+249;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/249_35302392605_962751eaa5_o.jpg
+250;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/250_11010808475_d6f910a3af_o.jpg
+251;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/251_15494334841_f48025d2c5_o.jpg
+252;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/252_6295404910_2f1f4e3f3f_o.jpg
+253;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/253_8407640768_03c0632c77_o.jpg
+254;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/254_8463875260_02598b3279_o.jpg
+255;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/255_8119657621_393aeeb4f9_o.jpg
+256;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/256_8012107832_7a97a1f5a8_o.jpg
+257;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/257_23390920941_ce9563f764_o.jpg
+258;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/258_1443066116_b80198b740_o.jpg
+259;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/259_15985018167_6b8a1ace06_o.jpg
+260;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/260_8576258417_13f12f4a4e_o.jpg
+261;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/261_9664697686_f80f8c38ed_o.jpg
+262;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/262_17564784781_b3df033b24_o.jpg
+263;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/263_8665661172_ae4f3fd2a6_o.jpg
+264;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/264_10692923434_ea1275f055_o.jpg
+265;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/265_148860505_62d9c309ac_o.jpg
+266;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/266_5525439311_12d8232e67_o.jpg
+267;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/267_5949597419_1c8471651c_o.jpg
+268;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/268_855141530_0083c0c316_o.jpg
+269;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/269_5501294246_2c1f4869d1_o.jpg
+270;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/270_15316801571_05af9570a7_o.jpg
+271;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/271_196910902_09b5c0d70f_o.jpg
+272;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/272_13755387325_92e88d11af_o.jpg
+273;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/273_3795063359_aa888ddb26_o.jpg
+274;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/274_8681710327_f23a618960_o.jpg
+275;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/275_8560089096_e019395fcc_o.jpg
+276;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/276_2348972925_9dca703bd5_o.jpg
+277;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/277_152309719_66b2597eeb_o.jpg
+278;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/278_15928852259_0466609fb5_o.jpg
+279;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/279_15644973102_c208971bff_o.jpg
+280;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/280_16097375456_2886e9abbb_o.jpg
+281;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/281_3229663028_3b9e65e3a5_o.jpg
+282;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/282_9671999152_dc93f4854b_o.jpg
+283;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/283_9370643338_6d224b91e6_o.jpg
+284;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/284_3707771239_fe9dd58aa3_o.jpg
+285;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/285_174327703_b0dc7bf942_o.jpg
+286;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/286_12284930643_6f35dc6441_o.jpg
+287;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/287_27815489482_feb059a6c5_o.jpg
+288;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/288_13337757705_46a27af88f_o.jpg
+289;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/289_48149374_5c69b92563_o.jpg
+290;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/290_14667017161_0f7481dd7b_o.jpg
+291;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/291_37404623_e0d418357c_o.jpg
+292;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/292_17135444090_350150987e_o.jpg
+293;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/293_8739305094_c11d4bf118_o.jpg
+294;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/294_9307160117_b0effaac7d_o.jpg
+295;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/295_11962332986_56a4675267_o.jpg
+296;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/296_4088343460_483318df65_o.jpg
+297;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/297_15642897404_dbd2ede9ae_o.jpg
+298;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/298_524945890_f6a6732a84_o.jpg
+299;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/299_26573473081_8d9a847366_o.jpg
+300;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/300_6519053969_ef439cf976_o.jpg
+301;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/301_24799239545_ae1dfcb684_o.jpg
+302;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/302_3383701804_c1e1808d09_o.jpg
+303;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/303_71074564_f292724d33_o.jpg
+304;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/304_797843299_7d00686c21_o.jpg
+305;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/305_35080117866_9433c6baa3_o.jpg
+306;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/306_7661811984_61db19fdb2_o.jpg
+307;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/307_23591438603_6a86a3f9f3_o.jpg
+308;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/308_11351374575_ce1506b577_o.jpg
+309;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/309_20264040919_c3a5b32ed3_o.jpg
+310;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/310_2409503291_e8c6777ca1_o.jpg
+311;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/311_237379957_3246174994_o.jpg
+312;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/312_49228370457_023c046221_o.jpg
+313;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/313_15928519274_e10d0ce908_o.jpg
+314;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/314_49315897498_016e2efd71_o.jpg
+315;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/315_6936994907_0be5b8cbde_o.jpg
+316;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/316_22478363817_99ee183979_o.jpg
+317;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/317_14330032310_f008b242c3_o.jpg
+318;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/318_1421761194_2a6a6bb71e_o.jpg
+319;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/319_14277153452_e0bdfc9a38_o.jpg
+320;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/320_4333692253_7b15005868_o.jpg
+321;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/321_15796036094_79176a257c_o.jpg
+322;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/322_11784502705_7c80e391e4_o.jpg
+323;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/323_7737072626_4eefc96ac4_o.jpg
+324;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/324_13953242160_887d9e4fc3_o.jpg
+325;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/325_15495287433_5bf6985acd_o.jpg
+326;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/326_12282401306_346fb66f81_o.jpg
+327;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/327_7645751700_7ea0f34a1e_o.jpg
+328;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/328_12523462075_a3fc8d5c79_o.jpg
+329;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/329_8632383588_d3868cd431_o.jpg
+330;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/330_6792281113_6dfbc6c657_o.jpg
+331;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/331_9667512812_a86200d070_o.jpg
+332;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/332_281921861_ab8d06f6a7_o.jpg
+333;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/333_81193940_b3a576fd00_o.jpg
+334;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/334_19186705102_9359470614_o.jpg
+335;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/335_24816150990_7e287f8b5f_o.jpg
+336;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/336_16131820099_c3fc9d8e24_o.jpg
+337;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/337_9736486427_55eacae8f0_o.jpg
+338;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/338_10602341835_9320f6facf_o.jpg
+339;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/339_12489510375_0156430983_o.jpg
+340;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/340_4073005450_4f67c1ecf4_o.jpg
+341;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/341_49310144238_8c8512450a_o.jpg
+342;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/342_2609015093_8b4a70ff44_o.jpg
+343;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/343_3486842841_d78a545ff2_o.jpg
+344;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/344_2831104261_e24037bf15_o.jpg
+345;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/345_23574860088_c6d6574406_o.jpg
+346;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/346_28144635013_4c6ff2540f_o.jpg
+347;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/347_8418075523_c512c769f8_o.jpg
+348;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/348_49322254096_1bebf310a6_o.jpg
+349;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/349_14959233959_62462a3dc6_o.jpg
+350;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/350_12214506556_579b63967f_o.jpg
+351;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/351_37489258171_1f860cc8ae_o.jpg
+352;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/352_205215813_8cd6fb0a05_o.jpg
+353;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/353_2325832710_58452124b4_o.jpg
+354;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/354_6044055637_6ce0878283_o.jpg
+355;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/355_9875139263_8527be4f41_o.jpg
+356;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/356_15913572056_6343e7d73c_o.jpg
+357;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/357_49313115808_73dcda8de6_o.jpg
+358;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/358_49296560693_f233fba98a_o.jpg
+359;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/359_7615827024_9d402e600b_o.jpg
+360;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/360_8165164793_7f55962d09_o.jpg
+361;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/361_36236622883_0a5022f813_o.jpg
+362;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/362_2906940960_2a04e1d3d2_o.jpg
+363;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/363_15546703633_7e75a02bf9_o.jpg
+364;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/364_6283055804_00933d8eef_o.jpg
+365;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/365_4021797176_9bdeca4a65_o.jpg
+366;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/366_31533113646_a71479ac95_o.jpg
+367;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/367_16116451848_bb482108c8_o.jpg
+368;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/368_31009721521_d1316137e8_o.jpg
+369;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/369_14330468559_b051364d22_o.jpg
+370;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/370_756993251_4065eaa98f_o.jpg
+371;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/371_4909713714_4999679a66_o.jpg
+372;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/372_5396568150_74fdd808a3_o.jpg
+373;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/373_16303133232_04ac6c1bd6_o.jpg
+374;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/374_15287288682_197496ddc6_o.jpg
+375;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/375_5915537695_1bf7a65123_o.jpg
+376;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/376_10416469375_321b22782a_o.jpg
+377;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/377_2477598966_96018328d1_o.jpg
+378;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/378_5165221856_0b08f53e1c_o.jpg
+379;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/379_19889992661_871a35eb13_o.jpg
+380;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/380_23455302064_8b4091e66b_o.jpg
+381;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/381_303234400_f8a412de52_o.jpg
+382;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/382_13772829224_98eb5fa2a9_o.jpg
+383;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/383_1443263202_e194ba22dd_o.jpg
+384;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/384_16608418638_14a15b7743_o.jpg
+385;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/385_15684129723_f451a08c22_o.jpg
+386;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/386_28843943758_a289440477_o.jpg
+387;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/387_14322677319_b289d9b68b_o.jpg
+388;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/388_6833817752_1d8b12e79b_o.jpg
+389;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/389_5395968005_e7c0104c5a_o.jpg
+390;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/390_14284648729_a43aa553dc_o.jpg
+391;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/391_27212909483_9cebdc130d_o.jpg
+392;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/392_2904911703_a7bb70f24f_o.jpg
+393;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/393_16130733726_a51fed7aab_o.jpg
+394;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/394_24330960057_f376d1b9b3_o.jpg
+395;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/395_11698503674_259fa97311_o.jpg
+396;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/396_4164478_7467d8a137_o.jpg
+397;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/397_8003614707_fd0200cbb1_o.jpg
+398;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/398_4016306621_4ef763d195_o.jpg
+399;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/399_1500333523_d2e8b9e136_o.jpg
+400;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/400_11122919374_58ccd9e84c_o.jpg
+401;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/401_295646011_ca5bd14ea5_o.jpg
+402;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/402_5166678236_db6b423dc0_o.jpg
+403;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/403_16209418155_8507095510_o.jpg
+404;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/404_24849310362_7f28f4dd55_o.jpg
+405;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/405_5007703932_2fa2b2a31b_o.jpg
+406;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/406_9674004334_e5227ef5c8_o.jpg
+407;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/407_48045014521_01382526ea_o.jpg
+408;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/408_14283352189_dd9566f27d_o.jpg
+409;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/409_4386772544_eef5d5116e_o.jpg
+410;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/410_49222568703_8a4622e969_o.jpg
+411;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/411_3699153162_ebb11c832b_o.jpg
+412;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/412_14739250820_c22e28fd60_o.jpg
+413;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/413_6899851215_d53c9c54fe_o.jpg
+414;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/414_2595728993_51ba53fd0d_o.jpg
+415;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/415_6615705459_1499485aaa_o.jpg
+416;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/416_12639439614_bbd2e928a0_o.jpg
+417;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/417_33726548446_f69b848dc8_o.jpg
+418;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/418_200905820_afda80eb5d_o.jpg
+419;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/419_2105080103_621e6e45f5_o.jpg
+420;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/420_15148171179_45b132f6a0_o.jpg
+421;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/421_22053741833_d4cb521827_o.jpg
+422;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/422_9100133053_5e4806b596_o.jpg
+423;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/423_15293237041_1df2f43cac_o.jpg
+424;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/424_12489445003_267a97a0d0_o.jpg
+425;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/425_25875588810_c825458cfa_o.jpg
+426;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/426_12489532783_071402abe7_o.jpg
+427;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/427_12489754244_2b6a3c7aa9_o.jpg
+428;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/428_12489422913_7089710d57_o.jpg
+429;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/429_12489327685_1c65cd6ef8_o.jpg
+430;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/430_3724449366_fe4d438303_o.jpg
+431;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/431_8125469626_81d05d9b21_o.jpg
+432;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/432_4667239826_dd2a87a7cb_o.jpg
+433;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/433_3545814747_a351ec9515_o.jpg
+434;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/434_4115723500_b6b58d37a8_o.jpg
+435;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/435_11351430426_d2527bab59_o.jpg
+436;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/436_9439667389_05043c4068_o.jpg
+437;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/437_5496331464_c7b0b901fe_o.jpg
+438;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/438_6291214927_344cfe5d70_o.jpg
+439;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/439_5054334901_b26a650e96_o.jpg
+440;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/440_48902130877_ff4a9fa006_o.jpg
+441;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/441_5917559189_05dd2ca11a_o.jpg
+442;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/442_9875045206_24cb70231b_o.jpg
+443;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/443_18739061678_4270b0efd2_o.jpg
+444;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/444_6849705835_5ee0db016a_o.jpg
+445;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/445_49220606422_1635768d10_o.jpg
+446;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/446_15984812155_b85c109c4e_o.jpg
+447;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/447_6706131847_0e7fdd31f6_o.jpg
+448;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/448_2451696911_828fa6483c_o.jpg
+449;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/449_7289136506_83710e4518_o.jpg
+450;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/450_6085026679_41d999964a_o.jpg
+451;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/451_9418262361_56f1483174_o.jpg
+452;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/452_39726184282_d17053973e_o.jpg
+453;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/453_5738165358_04f78c10c7_o.jpg
+454;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/454_26164212704_1c31c1e65b_o.jpg
+455;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/455_3406533779_3999a5552b_o.jpg
+456;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/456_2833505165_6028900c05_o.jpg
+457;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/457_36777992470_f88a3eef1b_o.jpg
+458;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/458_6006955758_9301118f34_o.jpg
+459;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/459_7874109806_3fe0080ae4_o.jpg
+460;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/460_2428847785_d17b77c0de_o.jpg
+461;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/461_16652298796_60da9a89e3_o.jpg
+462;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/462_46409123204_afecbb2dd8_o.jpg
+463;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/463_673319270_c5464a4779_o.jpg
+464;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/464_27869874675_0ee77fea25_o.jpg
+465;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/465_397543581_91690b1c31_o.jpg
+466;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/466_6124733847_57f533024b_o.jpg
+467;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/467_10156774213_4540f859a9_o.jpg
+468;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/468_38598813956_077e155536_o.jpg
+469;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/469_12489768644_f656650882_o.jpg
+470;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/470_2679569272_56dcbd7445_o.jpg
+471;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/471_3122504260_1409203ae6_o.jpg
+472;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/472_9674483648_48d6893937_o.jpg
+473;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/473_25494704754_f9f58f4a63_o.jpg
+474;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/474_8358592847_0e196ce105_o.jpg
+475;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/475_11108542805_50d5bf419b_o.jpg
+476;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/476_7046640317_cf718aca20_o.jpg
+477;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/477_49231645551_df6496f5ca_o.jpg
+478;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/478_14007373489_75e69b45be_o.jpg
+479;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/479_509610393_f90e35f981_o.jpg
+480;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/480_4760427356_c16ab4c0fb_o.jpg
+481;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/481_28217137257_ef552b70e3_o.jpg
+482;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/482_6859654543_a114701405_o.jpg
+483;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/483_12885033974_9da71127cb_o.jpg
+484;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/484_3139477756_bcc661b9f2_o.jpg
+485;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/485_12769345935_9cd466c798_o.jpg
+486;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/486_15380825857_52d0f2e8a2_o.jpg
+487;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/487_9421352133_25c12d928b_o.jpg
+488;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/488_4283634327_e8779f6d1f_o.jpg
+489;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/489_7805690806_5585b5e214_o.jpg
+490;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/490_6118012633_5b39775a5d_o.jpg
+491;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/491_5459507646_c99b626020_o.jpg
+492;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/492_14860435302_d0609c581a_o.jpg
+493;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/493_7052368921_9743ed760b_o.jpg
+494;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/494_2154754853_485b4510d4_o.jpg
+495;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/495_9987197585_d520f868cb_o.jpg
+496;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/496_3873938388_6e7e245a3a_o.jpg
+497;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/497_6975105302_b1e7e05900_o.jpg
+498;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/498_2090733283_e4df5a0bfa_o.jpg
+499;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/499_13881106675_c65be5f9c6_o.jpg
+500;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/500_4880114121_0458d6d7bd_o.jpg
+501;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/501_16279361569_87afbe2912_o.jpg
+502;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/502_3293292089_41902b274d_o.jpg
+503;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/503_2398522310_45eff1eb0f_o.jpg
+504;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/504_6858251273_b48db1db66_o.jpg
+505;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/505_24330961977_046a278d1d_o.jpg
+506;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/506_5135522824_21f61fe877_o.jpg
+507;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/507_454776951_4ebe0d0d22_o.jpg
+508;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/508_9249818803_ed4a99cf56_o.jpg
+509;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/509_14167689363_85c8899267_o.jpg
+510;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/510_28757591376_a6eec5a281_o.jpg
+511;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/511_10847697296_3ca5e6e77c_o.jpg
+512;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/512_24330956857_fb199bf530_o.jpg
+513;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/513_6885760644_67c00f2669_o.jpg
+514;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/514_14005930958_ae9b119d65_o.jpg
+515;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/515_12496110795_ef58d7683e_o.jpg
+516;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/516_13211405625_7efda8caa1_o.jpg
+517;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/517_11108752186_171b27586f_o.jpg
+518;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/518_14322692728_f93c76ecb8_o.jpg
+519;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/519_76894595_1f3cb95fb3_o.jpg
+520;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/520_4729084128_775799a401_o.jpg
+521;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/521_9354966897_07084206bd_o.jpg
+522;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/522_14031050530_e2cb8a71cc_o.jpg
+523;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/523_8366555725_a8ac63796c_o.jpg
+524;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/524_30858932475_7b49b8b35d_o.jpg
+525;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/525_10714318493_0b7d78c9d2_o.jpg
+526;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/526_5614220391_4ae59f445a_o.jpg
+527;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/527_11717974733_531a8edc08_o.jpg
+528;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/528_8992492651_ce420358ab_o.jpg
+529;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/529_160034517_47775d4b44_o.jpg
+530;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/530_465192103_94eb71bdea_o.jpg
+531;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/531_13868396503_bd31c9c7b7_o.jpg
+532;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/532_2954982676_7d4f7b6e3e_o.jpg
+533;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/533_6753666737_b3774b6855_o.jpg
+534;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/534_11983244104_333d432397_o.jpg
+535;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/535_28636303792_f362ce53e7_o.jpg
+536;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/536_100298353_60cad59610_o.jpg
+537;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/537_13868746284_2eb2540a83_o.jpg
+538;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/538_6870680650_d761754a0c_o.jpg
+539;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/539_24330954617_5e2f3126f5_o.jpg
+540;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/540_557479342_c00f401f6b_o.jpg
+541;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/541_2226705761_9bb41ca95b_o.jpg
+542;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/542_14007372779_270079222f_o.jpg
+543;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/543_6291728804_a12b48b425_o.jpg
+544;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/544_4758278935_078969b7d9_o.jpg
+545;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/545_8418157970_ba67ab1e05_o.jpg
+546;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/546_11351370835_65aa816601_o.jpg
+547;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/547_11156125044_bf03da9b14_o.jpg
+548;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/548_6776546804_74a150e6ec_o.jpg
+549;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/549_48264155017_4a8e37f9c6_o.jpg
+550;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/550_8675492223_33e87d2abf_o.jpg
+551;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/551_5312640485_ea0948dbc8_o.jpg
+552;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/552_8641036350_b3906ec750_o.jpg
+553;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/553_3668099217_3013961570_o.jpg
+554;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/554_5478800602_d21ca8312b_o.jpg
+555;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/555_2723952776_af6c0ab471_o.jpg
+556;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/556_5495739231_b3e6f76f02_o.jpg
+557;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/557_7384629674_14de81b13c_o.jpg
+558;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/558_34157964386_3904a95b0f_o.jpg
+559;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/559_45514864245_691d956b3a_o.jpg
+560;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/560_8425144561_f6bfcb9fd3_o.jpg
+561;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/561_23820549299_ac3c58939f_o.jpg
+562;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/562_12280569835_64474705b2_o.jpg
+563;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/563_3026737020_0b391652aa_o.jpg
+564;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/564_8776330753_5085afb292_o.jpg
+565;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/565_15112472253_426ebe2bfa_o.jpg
+566;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/566_48122383238_49362052f2_o.jpg
+567;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/567_5841660718_c2d628fb4c_o.jpg
+568;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/568_3820536336_827caa23e1_o.jpg
+569;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/569_4994707812_d02f3029ec_o.png
+570;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/570_8820877336_5749812b4e_o.jpg
+571;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/571_17176531265_f2bbcd778f_o.jpg
+572;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/572_4667244334_aa78a67893_o.jpg
+573;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/573_14671524695_bc41b03cca_o.jpg
+574;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/574_3768264627_759cd1bf9d_o.jpg
+575;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/575_14186600373_37cec53877_o.jpg
+576;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/576_2513924970_15206fca06_o.jpg
+577;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/577_5281029302_936d35ef13_o.jpg
+578;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/578_2277979680_5525fc9323_o.jpg
+579;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/579_13466839915_23a5b8292f_o.jpg
+580;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/580_7419136734_8512699daf_o.jpg
+581;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/581_15137852_0609d43e6f_o.jpg
+582;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/582_14416908354_5b349d8eea_o.jpg
+583;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/583_5419646470_5441f5ddce_o.jpg
+584;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/584_208640498_bc8f77cb87_o.jpg
+585;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/585_5532271887_4b4831e897_o.jpg
+586;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/586_8556232281_786662c874_o.jpg
+587;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/587_3328006934_2c12609fbb_o.jpg
+588;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/588_5170585726_a82092cbfc_o.jpg
+589;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/589_4355678509_dab15a55e2_o.jpg
+590;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/590_14179697074_5085eae9dd_o.jpg
+591;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/591_5093900363_15e9ddb1f3_o.jpg
+592;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/592_5448418645_96f207c9e1_o.jpg
+593;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/593_8183325998_b3c9cc3719_o.jpg
+594;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/594_48147565371_527746675b_o.jpg
+595;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/595_1748046601_94aa4f564d_o.jpg
+596;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/596_1584333702_30764df428_o.jpg
+597;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/597_5346157589_23c6e2dbb6_o.jpg
+598;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/598_8223006945_42e8e1b6ef_o.jpg
+599;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/599_14691416933_027f7465a4_o.jpg
+600;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/600_36054598904_41483af611_o.jpg
+601;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/601_3835206644_75b8d3981e_o.jpg
+602;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/602_14327573917_9ccfa6eb91_o.jpg
+603;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/603_3294702019_8bf76a7942_o.jpg
+604;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/604_12980765773_c9fb98fdf4_o.jpg
+605;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/605_16173430812_dea2d66443_o.jpg
+606;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/606_6022272778_a1992e42ce_o.jpg
+607;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/607_3364752782_54e82e02b6_o.jpg
+608;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/608_3037755358_c04ca53924_o.png
+609;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/609_14875296314_dea117d078_o.jpg
+610;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/610_15918264179_fd94ccb656_o.jpg
+611;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/611_15386005205_bdab197740_o.jpg
+612;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/612_183916459_c501884355_o.jpg
+613;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/613_20077809129_8884596b5a_o.jpg
+614;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/614_5919145965_6ccbd0a7de_o.jpg
+615;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/615_6902627577_e32c0aa05e_o.jpg
+616;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/616_16331073018_4de2e63451_o.jpg
+617;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/617_33435991155_811f220a17_o.jpg
+618;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/618_3318548951_fb3d1cd433_o.jpg
+619;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/619_15922402328_9df60d88cb_o.jpg
+620;Not sure;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/620_44997773_70d31acf3f_o.jpg
+621;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/621_16630059366_3219a8cef4_o.jpg
+622;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/622_5874914785_5278ed6e78_o.jpg
+623;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/623_15887362783_5a106bf0e3_o.jpg
+624;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/624_5798315823_b341ee33a9_o.jpg
+625;Exclude;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/625_8543478112_72e5e21d5b_o.jpg
+626;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/626_13897356956_791816ccdd_o.jpg
+627;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/627_4692956069_8dc9930910_o.jpg
+628;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/628_12185839253_a7f4eaf791_o.jpg
+629;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/629_10211609224_24f3fc2832_o.jpg
+630;Use;D:/Documents/Uni Kurse/Bachelorarbeit/CC Crawler/images/630_34250522901_5cd637ed13_o.jpg

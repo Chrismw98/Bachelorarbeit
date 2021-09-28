@@ -1,0 +1,93 @@
+<root>
+  <item tag='importance' nocheckable='True' >
+    <item tag='very_high' >
+    </item>
+    <item tag='high' >
+    </item>
+    <item tag='middle' >
+    </item>
+    <item tag='low' >
+    </item>
+    <item tag='very_low' >
+    </item>
+  </item>
+  <item tag='Status' nocheckable='True' >
+    <item tag='private' >
+    </item>
+    <item tag='note' >
+    </item>
+    <item tag='take_back' >
+    </item>
+    <item tag='unidentified' >
+    </item>
+  </item>
+  <item tag='Location' nocheckable='True' >
+    <item tag='UK' >
+      <item tag='london' >
+      </item>
+      <item tag='birmingham' >
+      </item>
+    </item>
+  </item>
+  <item tag='Plot' nocheckable='True' >
+  </item>
+  <item tag='Time' nocheckable='True' >
+    <item tag='winter' >
+    </item>
+    <item tag='summer' >
+    </item>
+    <item tag='autumn' >
+    </item>
+    <item tag='spring' >
+    </item>
+  </item>
+  <item tag='Прочие теги' nocheckable='True' >
+  </item>
+  <item tag='Use' >
+    <item tag='beach' >
+    </item>
+    <item tag='landscape' >
+    </item>
+    <item tag='city' >
+    </item>
+    <item tag='lake' >
+    </item>
+    <item tag='visibleSun' >
+    </item>
+    <item tag='invisibleSun' >
+    </item>
+    <item tag='yesClouds' >
+    </item>
+    <item tag='noClouds' >
+    </item>
+    <item tag='mediumClouds' >
+    </item>
+    <item tag='obstructedView' >
+    </item>
+    <item tag='peopleVisible' >
+    </item>
+    <item tag='heavilyEdited' >
+    </item>
+    <item tag='buildingVisible' >
+    </item>
+    <item tag='needsEdit' >
+    </item>
+    <item tag='watermark' >
+    </item>
+    <item tag='badQuality' >
+    </item>
+  </item>
+  <item tag='Exclude' >
+  </item>
+
+  <pattern>$f[0:] $i $c $t</pattern>
+  <pattern>$f[0:] $i $c $t</pattern>
+  <pattern>%Y-%m-%d $f[0] $c $f[1:] $i $t</pattern>
+  <pattern>$f $c [$to[]]</pattern>
+  <pattern>$f $c [$to[]$t]</pattern>
+  <pattern>%Y-%m-%d $f[1] $c $i [$t]</pattern>
+  <pattern_current>$f_$t</pattern_current>
+  <description></description>
+  <isRestoreDescription checked='False' />
+  <isCopyDataOnRowCh checked='False' />
+</root>
